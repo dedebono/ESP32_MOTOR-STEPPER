@@ -46,6 +46,7 @@ Include a simple circuit diagram or link to an image of the wiring.
 4. **Testing:**
    - Power up the circuit.
    - Use the joystick to control the stepper motor.
+   - User potentiometer for adjust the speed.
    - Observe the motor's movement based on joystick input.
 
 ## Code Explanation
