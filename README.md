@@ -1,4 +1,4 @@
-# ESP32 Stepper Motor Control with Joystick
+# ESP32 Stepper Motor Control with Joystick and potentiometer
 
 ## Overview
 
@@ -13,6 +13,7 @@ This Arduino sketch demonstrates how to control a stepper motor using an ESP32 m
 ## Hardware Requirements
 
 - ESP32 Development Board
+- Potentiometer
 - Stepper Motor
 - Joystick
 - Motor Driver (e.g., A4988 or DRV8825)
@@ -37,7 +38,8 @@ Include a simple circuit diagram or link to an image of the wiring.
 
 3. **Uploading the Sketch:**
    - Open the Arduino IDE.
-   - Load the provided sketch (`esp32_stepper_joystick_control.ino`).
+   - Load the provided sketch (`MOTOR_STEPPER_JOYSTICK_POTENTIOMETER.ino
+`).
    - Configure the COM port and board type for your ESP32.
    - Upload the sketch to the ESP32.
 
